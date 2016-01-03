@@ -1,0 +1,5 @@
+CD: Beatles Album, Beatles, $50, 15
+CD: 90s Classics, Assorted, $40, 30
+CD: Interstellar Score, Hans Zimmer, $30, 24
+CD: Maroon 5 Hits, Maroon 5, $20, 10
+CD: Pop Songs, Bruno Mars, $15, 8, 

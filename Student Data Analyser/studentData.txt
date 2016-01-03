@@ -1,0 +1,13 @@
+Class: Comp Sci A
+Vedant Mathur	9	123 Allen Rd, New York, 123456	100
+Ben Ho	10	123 Charleton Rd	88
+Sebastian Christansen	9	123 Fulton St, 123456	78
+Andrei Freund	9	657 Yellow Brick Road	99
+Nelson Lin	9	5889 Main St.	88
+Saddi Ahmed	9	4546  Cortlandt St.	90
+Jeremy	9	5654 Forsyth road	60
+
+Class: Comp Sci B
+John Doe	10	123 Henry St.	95
+Jack Darsy	11	234, Jane St.	60
+Catherine Irvine	9	56 Jefferson Drive.	78
